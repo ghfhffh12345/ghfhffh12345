@@ -12,6 +12,7 @@ and I'm 15 years old.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-%2347848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white&?color=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-%23000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm&logoColor=white" />
